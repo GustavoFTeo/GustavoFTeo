@@ -6,13 +6,13 @@
   <img align="center" alt="GuFT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GuFT-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
    <img align="center" alt="GuFT-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-</div>
-  
-##
+   <img align="center" alt="GuFT-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   
 </div>
   
 ##
+  
+</div>
 ### GitHub Stats 
 <picture>
   <source
