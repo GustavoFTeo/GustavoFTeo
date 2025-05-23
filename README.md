@@ -1,5 +1,5 @@
 # Hi! I am Gustavo Ferreira Teodoro!
-### My languages & skills
+### My languages & tools
 <div style="display: inline_block"><br>
   <img align="center" alt="GuFT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GuFT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -11,9 +11,8 @@
 </div>
   
 ##
-  
-</div>
 ### GitHub Stats 
+</div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gustavoft21&show_icons=true&theme=radical"
