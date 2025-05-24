@@ -1,4 +1,8 @@
-# Hi! I am Gustavo Ferreira Teodoro!
+# 👨🏻‍💻 Gustavo Ferreira Teodoro
+
+**Desenvolvedor Full Stack**
+
+Meu nome é Gustavo Ferreira Teodoro, tenho 16 anos e sou de Minas Gerais. Estou cursando o curso técnico de informatica do Instituto Federal de Minas Gerais. Adoro tudo que envolve tecnologia e tenho curiosidade de sempre estar descobrindo coisas novas. Além da programação, sou dançarino de hiphop, ballet e dança contemporânea.
 
 ### Contacts
 <div> 
@@ -8,8 +12,8 @@
   <a href="https://www.linkedin.com/in/gustavoferreirateodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-### My languages & tools
+---
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="GuFT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GuFT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,17 +24,22 @@
   
 </div>
   
-##
-### GitHub Stats 
+---
+### 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gustavoft21&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoFTeo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gustavoft21&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFTeo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoft21&show_icons=true" />
-</picture>
+
+</p>
