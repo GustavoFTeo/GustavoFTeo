@@ -1,4 +1,14 @@
 # Hi! I am Gustavo Ferreira Teodoro!
+
+### Contacts
+<div> 
+  <a href="https://www.youtube.com/@GuFTeo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gustavofteo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavofteo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavoferreirateodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 ### My languages & tools
 <div style="display: inline_block"><br>
   <img align="center" alt="GuFT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +22,7 @@
   
 ##
 ### GitHub Stats 
-</div>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gustavoft21&show_icons=true&theme=radical"
@@ -24,10 +34,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoft21&show_icons=true" />
 </picture>
-
-### Contacts
-<div> 
-  <a href="https://www.youtube.com/@GuFTeo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gustavofteo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavofteo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
