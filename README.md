@@ -39,6 +39,7 @@ Meu nome é Gustavo Ferreira Teodoro, tenho 16 anos e sou de Minas Gerais. Estou
     align="left" 
     alt="GitHub Stats" 
     height="200"
+    width="400"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFTeo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
