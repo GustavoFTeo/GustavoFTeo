@@ -1,7 +1,5 @@
 # 👨🏻‍💻 Gustavo Ferreira Teodoro
 
-**Desenvolvedor Full Stack**
-
 Meu nome é Gustavo Ferreira Teodoro, tenho 16 anos e sou de Minas Gerais. Estou cursando o curso técnico de informatica do Instituto Federal de Minas Gerais. Adoro tudo que envolve tecnologia e tenho curiosidade de sempre estar descobrindo coisas novas. Além da programação, sou dançarino de hiphop, ballet e dança contemporânea.
 
 ### Contacts
